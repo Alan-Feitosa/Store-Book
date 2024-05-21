@@ -58,33 +58,23 @@ Como Rodar o Projeto:
 
 Clone o repositório:
 
-    Bash
-
     git clone <URL do repositório>
 
 Instale as dependências no backend:
-
-    Bash
 
     cd backend
     npm install
 
 Inicie o servidor backend:
 
-    Bash
-
     npm start
 
 Instale as dependências no frontend:
-
-    Bash
 
     cd frontend
     npm install
 
 Inicie o servidor frontend:
-
-    Bash
 
     npm start
 
